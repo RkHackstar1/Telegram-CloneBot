@@ -3,14 +3,14 @@ import json
 from distutils.util import strtobool as stb
 
 # --------------------------------------
-BOT_TOKEN = ""
-GDRIVE_FOLDER_ID = ""
+BOT_TOKEN = "1988909623:AAHXwpj92gWREkns7M8CHM6G9hTodFExhG4"
+GDRIVE_FOLDER_ID = "0AGp4FULv4VojUk9PVA"
 # Default folder id.
-OWNER_ID = 123455673
+OWNER_ID = 797051622
 # Example: OWNER_ID = 619418070
-AUTHORISED_USERS = []
+AUTHORISED_USERS = [797051622, -501004477]
 # Example: AUTHORISED_USERS = [63055333, 100483029, -1003943959]
-INDEX_URL = ""
+INDEX_URL = "https://xd.rdrivemirror.workers.dev/0:"
 IS_TEAM_DRIVE = True
 USE_SERVICE_ACCOUNTS = True
 # --------------------------------------
